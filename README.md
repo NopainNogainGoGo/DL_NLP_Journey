@@ -22,7 +22,7 @@
 
 ---
 
-## 🛠️ 開發環境
+## 開發環境
 * **語言**: Python 3.x
 * **框架**: PyTorch
 * **工具**: Jupyter Notebook, Matplotlib, NumPy
