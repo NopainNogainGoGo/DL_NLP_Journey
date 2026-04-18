@@ -1,4 +1,4 @@
-#Deep Learning & NLP Learning Journey
+# Deep Learning & NLP Learning Journey
 記錄我從基礎機器學習到進階深度學習架構的實作過程，與 NLP。
 
 ## Projects & Experiments
